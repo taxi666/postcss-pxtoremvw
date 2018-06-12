@@ -1,0 +1,25 @@
+{
+  "name": "postcss-pxtoremvw",
+  "version": "1.0.0",
+  "description": "A webpack loader, it can convert px to rem and vw",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taxi666/postcss-pxtoremvw.git"
+  },
+  "keywords": [
+    "rem;vw"
+  ],
+  "author": "taxi666",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taxi666/postcss-pxtoremvw/issues"
+  },
+  "homepage": "https://github.com/taxi666/postcss-pxtoremvw#readme",
+  "dependencies": {
+    "postcss": "^6.0.16"
+  }
+}
